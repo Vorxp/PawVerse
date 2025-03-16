@@ -1,0 +1,33 @@
+2025/03/16-20:56:39.768 5974 Reusing MANIFEST C:\Users\PC\AppData\Local\Temp\flutter_tools.6fde6783\flutter_tools_chrome_device.5e3c47f7\Default\Local Storage\leveldb/MANIFEST-000001
+2025/03/16-20:56:39.808 5974 Recovering log #3
+2025/03/16-20:56:39.810 5974 Reusing old log C:\Users\PC\AppData\Local\Temp\flutter_tools.6fde6783\flutter_tools_chrome_device.5e3c47f7\Default\Local Storage\leveldb/000003.log 
+2025/03/16-21:07:15.787 5974 Level-0 table #5: started
+2025/03/16-21:07:15.797 5974 Level-0 table #5: 24523 bytes OK
+2025/03/16-21:07:15.801 5974 Delete type=0 #3
+2025/03/16-21:07:17.125 3fe4 Level-0 table #7: started
+2025/03/16-21:07:17.134 3fe4 Level-0 table #7: 20410 bytes OK
+2025/03/16-21:07:17.138 3fe4 Delete type=0 #4
+2025/03/16-21:15:17.117 5974 Level-0 table #9: started
+2025/03/16-21:15:17.132 5974 Level-0 table #9: 20703 bytes OK
+2025/03/16-21:15:17.135 5974 Delete type=0 #6
+2025/03/16-21:16:15.778 5974 Level-0 table #11: started
+2025/03/16-21:16:15.793 5974 Level-0 table #11: 13020 bytes OK
+2025/03/16-21:16:15.795 5974 Delete type=0 #8
+2025/03/16-21:35:29.841 5974 Level-0 table #13: started
+2025/03/16-21:35:29.860 5974 Level-0 table #13: 17002 bytes OK
+2025/03/16-21:35:29.865 5974 Delete type=0 #10
+2025/03/16-21:53:38.533 5974 Level-0 table #15: started
+2025/03/16-21:53:38.540 5974 Level-0 table #15: 16487 bytes OK
+2025/03/16-21:53:38.542 5974 Delete type=0 #12
+2025/03/16-21:53:38.544 5974 Compacting 4@0 + 1@1 files
+2025/03/16-21:53:38.551 5974 Generated table #16@0: 36 keys, 2144 bytes
+2025/03/16-21:53:38.551 5974 Compacted 4@0 + 1@1 files => 2144 bytes
+2025/03/16-21:53:38.552 5974 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/16-21:53:38.553 5974 Delete type=2 #7
+2025/03/16-21:53:38.553 5974 Delete type=2 #9
+2025/03/16-21:53:38.554 5974 Delete type=2 #11
+2025/03/16-21:53:38.554 5974 Delete type=2 #13
+2025/03/16-21:53:38.554 5974 Delete type=2 #15
+2025/03/16-22:35:15.793 5974 Level-0 table #18: started
+2025/03/16-22:35:15.804 5974 Level-0 table #18: 18819 bytes OK
+2025/03/16-22:35:15.808 5974 Delete type=0 #14

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272830980845",
+    "project_id": "mobiledev-869da",
+    "storage_bucket": "mobiledev-869da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272830980845:android:3c2c62e4aac188a2ac62e4",
+        "android_client_info": {
+          "package_name": "com.example.dog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC356ZzdX_TNChZ10ZbpTRFNG9lLQXuRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
